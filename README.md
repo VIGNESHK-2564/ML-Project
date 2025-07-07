@@ -36,7 +36,7 @@ Stock data was sourced using the **Yahoo Finance API** via `yfinance` library. P
 
 ##  Screenshots
 
-*(Add plots or screenshots here using: `![Alt Text](path-to-image)`)*
+ `![Alt Text](https://github.com/VIGNESHK-2564/ML-Project/blob/main/Facebook%20Prophet.jpg)`
 
 ## 📌 Objective
 
