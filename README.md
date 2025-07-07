@@ -26,7 +26,6 @@ This project focuses on forecasting **Tesla (TSLA)** stock prices using various 
 - **Google Colab**
 - **Facebook Prophet**
 - **statsmodels**
-- **pmdarima**
 - **matplotlib / seaborn**
 - **yfinance** (for fetching stock data)
 
@@ -36,8 +35,8 @@ Stock data was sourced using the **Yahoo Finance API** via `yfinance` library. P
 
 ##  Screenshots
 
- `![Alt Text](https://github.com/VIGNESHK-2564/ML-Project/blob/main/Facebook%20Prophet.jpg)`
+![Facebook Prophet Forecast](https://github.com/VIGNESHK-2564/ML-Project/blob/main/Facebook%20Prophet.jpg?raw=true)
 
-## 📌 Objective
+##  Objective
 
 To build a machine learning pipeline that forecasts stock prices with reasonable accuracy using time-series data, and to compare classical statistical models with modern ML-based forecasting techniques.
